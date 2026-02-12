@@ -26,12 +26,6 @@ python -m streamlit run app.py
 - Gradient Boosting
 - Ridge Regression
 
-Made for college major project.
-```
-
----
-
-## 🎯 **Final File Structure for GitHub:**
 ```
 stock_prediction_project/
 ├── scripts/
@@ -41,3 +35,4 @@ stock_prediction_project/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
